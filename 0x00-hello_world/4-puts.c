@@ -1,11 +1,12 @@
-nclude<stdio.h>
+#include <stdio.h>
 /**
- *  * main - Entry point
+ *  *main-The main function prints out a text
  *   *
- *    * Return: Always 0 (Success)
+ *    *Return: always 0
  *     */
+
 int main(void)
 {
-                puts("\"Programming is like building a multilingual puzzle");
-                        return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
